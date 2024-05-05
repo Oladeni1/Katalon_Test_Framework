@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_OrangeHRM</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd6328c0-3553-4bc1-a693-765623b6093d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fdceb9b9-99f8-4705-b373-bb30a6123940</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9743bf30-abff-4b0d-9d91-8c9823eccaa6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cf8b8eff-f1b6-4b3d-9399-8827269ee475</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>fdceb9b9-99f8-4705-b373-bb30a6123940</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+   <variable>
+      <defaultValue>'hUKwJTbofgPU9eVlw/CnDQ=='</defaultValue>
+      <description></description>
+      <id>9743bf30-abff-4b0d-9d91-8c9823eccaa6</id>
+      <masked>false</masked>
+      <name>PassWord</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login'</defaultValue>
+      <description></description>
+      <id>cf8b8eff-f1b6-4b3d-9399-8827269ee475</id>
+      <masked>false</masked>
+      <name>BaseUrl</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_card-img-top</name>
+   <tag></tag>
+   <elementGuidId>f2f7fdaf-9b8d-4d53-9546-65941f8b2e50</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.card-img-top</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>64b9bd41-4079-45d1-b84c-aef0f08f92c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-img-top</value>
+      <webElementGuid>f223fd8a-f2ff-4fe2-b676-562175bc72b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/img/iphonex.jpg</value>
+      <webElementGuid>566d97c7-22eb-42c6-96bc-863506439905</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-shop[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9&quot;]/app-card-list[@class=&quot;row&quot;]/app-card[@class=&quot;col-lg-3 col-md-6 mb-3&quot;]/div[@class=&quot;card h-100&quot;]/a[1]/img[@class=&quot;card-img-top&quot;]</value>
+      <webElementGuid>b50c673c-ff73-4584-b2eb-fedb023bb217</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/img</value>
+      <webElementGuid>92660f9c-7409-47d9-8190-4ad919813bb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'assets/img/iphonex.jpg']</value>
+      <webElementGuid>52587e3d-66ca-4b36-8705-4a2c33cc85ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

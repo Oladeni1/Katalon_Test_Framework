@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "368DCE27F10EC96C2871F2BC0DCAE380",
+  "keywordClasses": [
+    {
+      "name": "myPackage.loginKeyword",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

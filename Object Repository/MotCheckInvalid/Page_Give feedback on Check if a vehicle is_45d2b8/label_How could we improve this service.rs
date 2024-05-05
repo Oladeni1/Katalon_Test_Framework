@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_How could we improve this service</name>
+   <tag></tag>
+   <elementGuidId>55189325-0ac5-4a62-828a-30631e070370</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.gem-c-label.govuk-label.govuk-label--s</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='content']/div/div[2]/form/div[3]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;How could we improve this service?&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>5aab562b-eb93-490d-b1f2-b6e86971f32c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>textarea-8f611ddd</value>
+      <webElementGuid>6b8109dd-5777-4f3e-a23f-ccfc51a3c3a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gem-c-label govuk-label govuk-label--s</value>
+      <webElementGuid>3ef65cb9-55de-4cde-bb8d-e52b87b36a7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>How could we improve this service?</value>
+      <webElementGuid>34aae6d0-c203-4972-aaa2-5570f9cf2bb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;govuk-grid-row&quot;]/div[@class=&quot;govuk-grid-column-two-thirds&quot;]/form[@class=&quot;service-feedback&quot;]/div[@class=&quot;gem-c-character-count govuk-character-count&quot;]/div[@class=&quot;gem-c-textarea govuk-form-group govuk-!-margin-bottom-6&quot;]/label[@class=&quot;gem-c-label govuk-label govuk-label--s&quot;]</value>
+      <webElementGuid>9b3571ae-e11f-439c-a0e5-a0de285da277</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='content']/div/div[2]/form/div[3]/div/label</value>
+      <webElementGuid>072fa458-fccd-4ff0-bdc0-bdf0f135079d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Very dissatisfied'])[1]/following::label[1]</value>
+      <webElementGuid>79e932be-7955-4b3c-9df1-de1bf0d9b863</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dissatisfied'])[1]/following::label[2]</value>
+      <webElementGuid>24f2770a-f674-4906-93d4-f85825dafcc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You can enter up to 1250 characters'])[1]/preceding::label[1]</value>
+      <webElementGuid>47f4356f-a757-4f8c-8131-46ba3945ac04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send feedback'])[1]/preceding::label[1]</value>
+      <webElementGuid>5d1a17cc-8dc0-4fcf-be59-86cbd53f44da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='How could we improve this service?']/parent::*</value>
+      <webElementGuid>4db8e549-3a7f-4857-a343-b7706794cc3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/label</value>
+      <webElementGuid>c64413e3-3151-4ed6-b775-e0270b1fbe60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'How could we improve this service?' or . = 'How could we improve this service?')]</value>
+      <webElementGuid>291bf6f7-2567-4a70-a2c7-132a57b994e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

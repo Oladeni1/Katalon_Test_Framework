@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Enter the registration number of the vehicle</name>
+   <tag></tag>
+   <elementGuidId>70501483-5918-444a-813f-e07ab332d10c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div[2]/div/form/fieldset/legend/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Enter the registration number of the vehicle&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>9abf28cb-282e-42f1-884d-413f454230f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enter the registration number of the vehicle</value>
+      <webElementGuid>dc7e53d2-5305-4793-9151-30edcf5115c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;govuk-grid-row&quot;]/div[@class=&quot;govuk-grid-column-two-thirds&quot;]/form[1]/fieldset[1]/legend[1]/h1[1]</value>
+      <webElementGuid>20b4d439-6828-4db9-bde3-a131e05c5a6e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div[2]/div/form/fieldset/legend/h1</value>
+      <webElementGuid>d866d3ea-4ad1-4707-9008-27cd3620c72d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check if a vehicle is taxed and has an MOT'])[1]/following::h1[1]</value>
+      <webElementGuid>5a555c3b-d43e-44cc-9871-151d6b68a024</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GOV.UK'])[1]/following::h1[1]</value>
+      <webElementGuid>e29e8e2b-4e65-48e3-83fe-841eb30717cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registration number (number plate)'])[1]/preceding::h1[1]</value>
+      <webElementGuid>7bdb4ffb-78dd-4ac6-a5ba-cdb618436367</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='For example, CU57ABC'])[1]/preceding::h1[1]</value>
+      <webElementGuid>67db3d7a-b957-4185-b7f1-89c4cae16a81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Enter the registration number of the vehicle']/parent::*</value>
+      <webElementGuid>b6f5d006-906f-4968-9739-5960f5b78bdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>9af9dc7b-30f4-42df-94ed-a96c07243d33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Enter the registration number of the vehicle' or . = 'Enter the registration number of the vehicle')]</value>
+      <webElementGuid>4e86794a-f314-48d4-bbdc-076b06dc704c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

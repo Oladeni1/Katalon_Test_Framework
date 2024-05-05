@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>header_GREENKARTLimited offer - FREE Core J_9f8137</name>
+   <tag></tag>
+   <elementGuidId>83677428-9f11-46d2-9fdf-95fd1d748259</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>header</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/header</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=banner</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>header</value>
+      <webElementGuid>62c52d61-dd8b-46c7-aa22-fd724b46c86f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>GREENKARTLimited offer - FREE Core Java &amp; QA Resume courseTop DealsFlight BookingItems:1Price:1121Carrot - 1 Kg562 Nos. 112×PROCEED TO CHECKOUT</value>
+      <webElementGuid>c334cd9e-90ee-4638-8f9b-616b66d44264</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container&quot;]/header[1]</value>
+      <webElementGuid>73a985d6-6632-414c-b707-4f8cfca2b569</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/header</value>
+      <webElementGuid>927ea467-77a5-4c69-a207-546bd0f3fe44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header</value>
+      <webElementGuid>89a7876c-4351-45ba-86e1-1b8a0a806a8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//header[(text() = 'GREENKARTLimited offer - FREE Core Java &amp; QA Resume courseTop DealsFlight BookingItems:1Price:1121Carrot - 1 Kg562 Nos. 112×PROCEED TO CHECKOUT' or . = 'GREENKARTLimited offer - FREE Core Java &amp; QA Resume courseTop DealsFlight BookingItems:1Price:1121Carrot - 1 Kg562 Nos. 112×PROCEED TO CHECKOUT')]</value>
+      <webElementGuid>b9ccc270-a64f-42d9-aca8-ee6abde274cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
